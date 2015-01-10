@@ -16,3 +16,5 @@ A few things I have learned from these travels:
 -home is where you make it
 -treat others the way you wish to be treated
 -major cities are cool, but there's as much to explore, and discover in the small towns.
+
+#changetheworld
